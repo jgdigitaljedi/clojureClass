@@ -1,0 +1,2 @@
+# Udemy Clojure class
+Just some files from a Clojure class I'm taking. Thought that getting deeper into functional programming might make me a better all around programmer. I figured "why not learn something completely different than JS?"
